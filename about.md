@@ -3,6 +3,11 @@ layout: post
 title: About
 ---
 
-This is an example page!
+我
 
-Actually, it has the same layout of a post...
+喜欢摄影/业余后期，常驻b站鬼畜区。 动漫追番 【犬夜叉】【百变小樱魔术卡】包括 Key 社的催泪弹 CLANNAD 等等（喜欢宫老爷子的动漫电影） 偶尔追剧 （老剧/美剧/各种剧） 喜欢听歌，听歌年代上至60年代下至现代（多语种/类型、页面下有歌单，喜欢节奏感的不要错过了） 爱看电影 （灾难/动作/各种类型）还 喜欢打游戏， 轻度 STEAM 玩家。
+
+
+
+博客
+一个兴趣使然的站点，主题 Moonwalk 开发于 Jekyll  平台
