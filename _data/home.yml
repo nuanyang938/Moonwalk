@@ -9,17 +9,17 @@ navbar_entries:
   #   url: https://www.abhinav.co
 
 project_entries:
-  # - title: Project 1
-  #   url: overview-post
-  #   desc: This is an example project, configured in _data/home.yml
+  - title: Project 1
+    url: overview-post
+    desc: This is an example project, configured in _data/home.yml
 
-  # - title: Project 2
-  #   url: overview-post
-  #   desc: Projects are shown in card layout
+  - title: Project 2
+    url: overview-post
+    desc: Projects are shown in card layout
 
-  # - title: Project 3
-  #   url: overview-post
-  #   desc: You can control visibility from _config.yml file
+  - title: Project 3
+    url: overview-post
+    desc: You can control visibility from _config.yml file
 
   - title: Project 4
     url: overview-post
@@ -35,19 +35,19 @@ project_entries:
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+# old_project_entries:
+#   - title: Soopr
+#     url: https://www.soopr.co
+#     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+#   - title: Cookie
+#     url: https://github.com/abhinavs/cookie
+#     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#   - title: Moonwalk
+#     url: https://github.com/abhinavs/moonwalk
+#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
 
 footer_entries:
