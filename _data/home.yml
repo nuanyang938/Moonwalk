@@ -10,8 +10,14 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    url: 2022-01-08-湖畔绿洲湖州可持续新青年社区  方案.md
+    desc: 项目：湖畔绿洲|湖州可持续新青年社区
+
+项目位置：中国，湖州
+
+项目类型：新青年社区设计
+
+设计：VenhoevenCS 建筑与城市规划事务所
 
   - title: Project 2
     url: overview-post
