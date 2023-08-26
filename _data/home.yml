@@ -10,12 +10,12 @@ navbar_entries:
 
 project_entries:
   - title: 设计方案
-    url: 2022-01-08-blog-post-1
+    url: blog-post-1
     desc: <p>湖畔绿洲·湖州青年社区<p> <p>项目位置：中国，湖州<p>
     highlight: WIP
 
   - title: 设计方案
-    url: 2022-01-08-blog-post-2
+    url: blog-post-2
     desc: <p>项目名称：晓长安二店<p><p>项目地点：西安·高新<p>
 
   - title: Project 3
