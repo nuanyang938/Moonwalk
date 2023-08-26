@@ -14,9 +14,9 @@ project_entries:
     desc: <p>项目：湖畔绿洲|湖州可持续新青年社区<p> <p>项目位置：中国，湖州<p>
     highlight: WIP
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: 设计方案
+    url: 晓长安西安二店餐厅
+    desc: <p>项目名称：晓长安二店<p><p>设计公司：郭莘空间设计（西安）有限公司<p><p>项目地点：陕西·西安·高新<p>
 
   - title: Project 3
     url: overview-post
