@@ -9,9 +9,10 @@ navbar_entries:
     url: https://cpwo.gitee.io/#/
 
 project_entries:
-  - title: Project 1
+  - title: 设计方案
     url: 湖畔绿洲湖州可持续新青年社区方案
     desc: <p>项目：湖畔绿洲|湖州可持续新青年社区<p> <p>项目位置：中国，湖州<p>
+    highlight: WIP
 
   - title: Project 2
     url: overview-post
