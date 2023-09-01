@@ -23,8 +23,8 @@ project_entries:
     desc: 项目：樂·墨瑞法餐厅<p>项目地点：中国·北京<p>
 
   - title: 设计方案
-    url: blog-post-5.md
-    desc: 项目：万科富春泉水湾 | 公望<p>项目地址：浙江省杭州富阳<p>
+    url: blog-post-5
+    desc: 项目：万科富春泉水湾 | 公望<p>地址：浙江省杭州富阳<p>
     highlight: WIP
 
   - title: Project 5
