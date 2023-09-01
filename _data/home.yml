@@ -65,10 +65,10 @@ footer_entries:
 
 misc_entries:
   - title: this is an example vertical list
-    url: false
+    url: true
 
   - title: you can show or hide using a boolean flag in _config.yml
-    url: false
+    url: true
 
   - title: and you can add data in _data/home.yml
     url: false
