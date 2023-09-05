@@ -3,6 +3,19 @@
 
 html { height: 100%; }
 
+h1 {
+
+  1. ​    display: block;
+  2. ​    font-size: 2em;
+  3. ​    margin-block-start: 0.67em;
+  4. ​    margin-block-end: 0.67em;
+  5. ​    margin-inline-start: 0px;
+  6. ​    margin-inline-end: 0px;
+  7. ​    font-weight: bold;
+  
+  }
+
+
 body {
   font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
@@ -88,7 +101,7 @@ img {
       --text-secondary: #9CA3AF;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
-      --text-align: center
+      
   };
 }
 
