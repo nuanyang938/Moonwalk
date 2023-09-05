@@ -3,18 +3,6 @@
 
 html { height: 100%; }
 
-h6 {
-
-  1. ​    display: block;
-  2. ​    font-size: 2em;
-  3. ​    margin-block-start: 0.67em;
-  4. ​    margin-block-end: 0.67em;
-  5. ​    margin-inline-start: 0px;
-  6. ​    margin-inline-end: 0px;
-  7. ​    font-weight: bold;
-  
-  }
-
 
 body {
   font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
@@ -28,7 +16,7 @@ pre, code {
   font-size: 0.9rem;
 }
 
-h2, h3, h4, h5 { margin-top: 1.5em; }
+h2, h3, h4, h5 h6,{ margin-top: 1.5em; }
 
 hr { margin: 1em 0; }
 
@@ -121,7 +109,7 @@ html, body {
     background-color: var(--bg);
     color: var(--text);
 }
-h1, h2, h3, h4, h5, {
+h1, h2, h3, h4, h5, h6,{
     color: var(--headings);
 }
 p, strong, b, em, small, li, hr, table, figcaption {
