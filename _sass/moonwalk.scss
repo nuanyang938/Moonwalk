@@ -3,7 +3,7 @@
 
 html { height: 100%; }
 
-h1 {
+h6 {
 
   1. ​    display: block;
   2. ​    font-size: 2em;
@@ -121,7 +121,7 @@ html, body {
     background-color: var(--bg);
     color: var(--text);
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, {
     color: var(--headings);
 }
 p, strong, b, em, small, li, hr, table, figcaption {
