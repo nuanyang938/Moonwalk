@@ -3,30 +3,32 @@ layout: default
 ---
 <style>
   .avatar {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  overflow: hidden;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
   }
+
   .avatar img {
-  width: 100%;
-  height: 100%;
+    width: 100%;
+    height: 100%;
   }
-  </style>
+</style>
 <header>
   {% if site.theme_config.show_navbar == true %}
   {% include horizontal_list.html collection=site.data.home.navbar_entries %}
   <div class="dashed"></div>
   {% endif %}
 
-  <div class="avatar"><h1>{{ site.title }}</h1>
+  <div class="avatar">
     <img width="400" height="400"
-      src="https://snake-1252886103.cos.ap-shanghai.myqcloud.com/2023/02/20230218231123150.jpg" 
-      
-    {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
-    {% endif %}
-  </div>
+      src="https://snake-1252886103.cos.ap-shanghai.myqcloud.com/2023/02/20230218231123150.jpg" </div>
+    <div>
+      <h1>{{ site.title }}</h1>
+      {% if site.theme_config.show_description == true %}
+      <p>{{ site.description }}</p>
+      {% endif %}
+    </div>
 </header>
 
 {{ content }}
