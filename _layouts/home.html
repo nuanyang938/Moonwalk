@@ -2,6 +2,11 @@
 layout: default
 ---
 <style>
+  .cico {
+    display: table-cell;
+    vertical-align: middle;
+  }
+
   .avatar {
     width: 100px;
     height: 100px;
@@ -27,13 +32,12 @@ layout: default
     <div class="avatar">
       <img width="400" height="400" display: table-cell; vertical-align: middle;
         src="https://snake-1252886103.cos.ap-shanghai.myqcloud.com/2023/02/20230218231123150.jpg" </div>
-
-    </div>
-    <h1>{{ site.title }}</h1>
-    {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
-    {% endif %}
-  </div>
+      <div class="cico">
+        <h1>{{ site.title }}</h1>
+        {% if site.theme_config.show_description == true %}
+        <p>{{ site.description }}</p>
+        {% endif %}
+      </div>
 </header>
 
 {{ content }}
