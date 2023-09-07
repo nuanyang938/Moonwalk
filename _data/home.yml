@@ -2,7 +2,7 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: 博客
+  - title: Blog
     url: blog
 
   - title: 规范网
