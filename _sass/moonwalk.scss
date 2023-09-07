@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: "Noto Serif SC", Sans-serif;"Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
+  font-family:"Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
   line-height: 2;
   margin: 0;
@@ -15,7 +15,7 @@ body {
 
 pre,
 code {
-  font-family:"Noto Serif SC", Sans-serif; "Roboto Mono", "Courier New", monospace;
+  font-family: "Roboto Mono", "Courier New", monospace;
   font-size: 0.9rem;
 }
 
@@ -238,11 +238,11 @@ mark {
   color: var(--text-secondary);
   margin-top: 1rem;
   font-size: 0.7em;
-  font-family:"Noto Serif SC", Sans-serif; "Roboto Mono", "Courier New", monospace;
+  font-family:"Roboto Mono", "Courier New", monospace;
 }
 
 .home-date {
-  font-family: "Noto Serif SC", Sans-serif;"Roboto Mono", "Courier New", monospace;
+  font-family: "Roboto Mono", "Courier New", monospace;
 }
 
 .post-list-item a {
@@ -292,7 +292,7 @@ li code {
 }
 
 .tag {
-  font-family: "Noto Serif SC", Sans-serif;"Roboto Mono", "Courier New", monospace;
+  font-family: "Roboto Mono", "Courier New", monospace;
   color: var(--text-secondary);
   padding: 0.4em 1em;
   margin-right: 0.5em;
