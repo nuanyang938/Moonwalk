@@ -63,36 +63,36 @@ footer_entries:
   - title: feed
     url: feed.xml
 
-misc_entries:
-  - title: this is an example vertical list
-    url: true
+# misc_entries:
+#   - title: this is an example vertical list
+#     url: true
 
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: true
+#   - title: you can show or hide using a boolean flag in _config.yml
+#     url: true
 
-  - title: and you can add data in _data/home.yml
-    url: false
+#   - title: and you can add data in _data/home.yml
+#     url: false
 
-  - title: Blog posts
-    post_list: true
-    url: false
+#   - title: Blog posts
+#     post_list: true
+#     url: false
 
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/nuanyang938/Moonwalk
+#   - title: moonwalk on the Internet
+#     url: false
+#     entries:
+#       - title: on Github
+#         url: https://github.com/nuanyang938/Moonwalk
 
-      - title: originally built for abhinav's homepage
-        url: https://blog.cico.ren
+#       - title: originally built for abhinav's homepage
+#         url: https://blog.cico.ren
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+#       - title: this list is scalable and can be nested
+#         url: false
+#         entries:
+#           - title: this is nested inside a nested list
+#             url: false
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+#           - title: it is easy to use, see _data/home.yml to see how to configure it.
+#             url: false
 
 
